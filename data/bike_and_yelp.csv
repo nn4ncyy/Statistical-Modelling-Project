@@ -1,0 +1,801 @@
+id,station_name,latitude,longitude,free_bikes,empty_slots,restaurant_name,distance,address,categories,rating,review_count
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,IGo Pasta,1465.9680461525684,No address,"Chinese, Asian Fusion, Ramen",3.8,23
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,Botafumeiro,769.9474556429477,No address,"Tapas Bars, Dive Bars, Spanish",4.3,9
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,Lurca,53.496441272891936,No address,Restaurants,0.0,0
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,Canaletto,269.76916166405863,No address,"Rotisserie Chicken, Pizza",4.5,2
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,Cafetería Bar Dayton,209.5218460548712,No address,Cafeteria,5.0,1
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,La Piazzola,611.5500514860145,No address,"Burgers, Pizza, Sandwiches",4.7,3
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,Doña Patata,799.6254747234262,No address,"Tapas Bars, Spanish",4.6,5
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,Burger King,51.55754805229473,No address,American,0.0,0
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,El Cuadro,623.1492340268287,No address,Spanish,5.0,2
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,Gran Nemrut,871.0649798939662,No address,"Kebab, Middle Eastern, Pizza",3.8,5
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,El Rincón de Lola,743.2693542945663,No address,Tapas Bars,4.5,2
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,Asador Ricardo,1691.6298050021132,No address,Steakhouses,4.0,1
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,Arrocería Da' Gusto,820.8744707344423,No address,"Tapas/Small Plates, Arroceria / Paella",4.5,2
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,El Secreto de Dora,1157.225801875996,No address,"Spanish, Tapas Bars",3.8,4
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,Delgado,312.6403615458306,No address,"Desserts, Bakeries, Cafeteria",4.0,1
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,Apolo XIII,1195.9931019823832,No address,"Tapas Bars, Spanish",5.0,3
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,Gabri,1194.5041368822826,No address,"Spanish, Romanian",0.0,0
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,La Colonia Peruana,1936.4804711123224,No address,Peruvian,4.5,2
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,Telepizza,433.13620066128817,No address,Pizza,3.5,2
+01f5011f76069b1e81a11d4d51dd9d1d,377 - Metro Abrantes,40.38091762,-3.72783615,9,14,Anjor,454.0354559712825,No address,Spanish,5.0,2
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,La Bekada,346.7353128338655,No address,"Spanish, Steakhouses",3.5,14
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,Tommy Mel's,817.1225905738007,No address,"Burgers, American",3.0,12
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,La Casona,188.1596942988748,No address,Restaurants,3.5,2
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,El Llagar de Covadonga,1358.3021613868675,No address,"Spanish, Asturian",4.2,5
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,Oktoberfest,829.0221253575354,No address,German,4.1,8
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,Ecu,1350.1945048509535,No address,"Spanish, Tapas Bars, Sandwiches",4.0,3
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,Ribs,779.3994676492201,No address,"American, Burgers, Barbeque",1.0,1
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,Freiduría El Chaval,1315.577233996059,No address,"Galician, Tapas/Small Plates",4.0,2
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,La Tagliatella,792.1525735652002,No address,Italian,3.7,7
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,The Clover House,1222.01603809115,No address,"Irish, Pubs, Tapas Bars",2.1,7
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,El Reino Asador,928.9885449759812,No address,Buffets,4.3,3
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,Ferrum Bar,1030.347237998531,No address,"Spanish, Tapas Bars, Lounges",2.8,4
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,Brasa y Leña,783.6314732695116,No address,"Brasseries, Brazilian",2.0,5
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,Restaurante Tokio,1129.7986268946916,No address,"Japanese, Chinese",4.5,4
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,Valle El Hermoso,269.39652794146616,No address,Spanish,3.3,3
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,Enrique Tomas,1660.664734651366,No address,Spanish,4.3,7
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,VIPS,768.8142820623044,No address,"Breakfast & Brunch, American",2.3,3
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,El Llagar,1284.002286580888,No address,"Spanish, Asturian",3.5,2
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,Sienna,1347.7102870479262,No address,Pizza,4.0,2
+025b1722c61309b46f4f3833c05d96a2,507 - Seis - Sexta,40.44845033,-3.5965029500000005,19,5,Foster's Hollywood,779.3994676492201,No address,"American, Burgers",2.0,1
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,Cañadío,319.8208612104687,No address,"Spanish, Tapas/Small Plates",4.7,23
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,Tandoori Station,226.65474906389792,No address,Indian,4.5,75
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,Los Montes de Galicia,420.9045614164916,No address,"Spanish, Bars",4.6,77
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,Ten con Ten,1551.0780446507297,No address,Modern European,4.2,216
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,El Paraguas,1511.469173681705,No address,"Spanish, Asturian",4.3,60
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,Goiko Grill,1444.260516760235,No address,"Burgers, American, Cafeteria",4.3,73
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,La Cuchara,307.7941334351475,No address,"Latin American, Spanish",4.3,15
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,La Tasqueria,1078.9108473993613,No address,"Spanish, Mediterranean",4.8,27
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,El Pescador,239.26265457876232,No address,Seafood,4.3,17
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,Tatel,1384.560079820679,No address,"Spanish, Seafood, Mediterranean",4.0,45
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,Goiko Grill,470.4906890499505,No address,Burgers,4.1,47
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,La Castela,1353.7136551655535,No address,"Spanish, Tapas/Small Plates",4.6,36
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,O'Caldiño,1179.0708157196516,No address,"Galician, Seafood",4.4,21
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,Street Xo,1401.8203640535596,No address,"Gastropubs, Asian Fusion, Spanish",4.2,122
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,Milos,53.20429142872412,No address,Greek,3.4,22
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,El Rincon de Jaén,398.5195761403692,No address,"Spanish, Tapas Bars, Andalusian",4.1,21
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,El Gran Barril,778.8367458504912,No address,"Seafood, Spanish",4.5,17
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,Ultramarinos Quintín,1470.3506389002912,No address,"Spanish, Gastropubs, Seafood",3.9,48
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,Entre Cáceres y Badajoz,366.911117020561,No address,"Spanish, Tapas Bars",3.9,48
+0293685e90e89cbd15dfb4ae7db3551e,192 - Avda. de los Toreros - Fco. Silvela,40.43182646446866,-3.671467718385311,9,17,O'Grelo,1404.951990562828,No address,"Seafood, Galician, Tabernas",4.8,21
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Aynaelda,459.1827866504908,No address,Spanish,3.9,9
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Passaparola L´Originale,950.6688205346444,No address,Italian,4.4,7
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Jumi-Rosa,153.5284925396691,No address,"Spanish, Tapas Bars, Breakfast & Brunch",3.7,3
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Plaqués Cocina,71.2768568255019,No address,"Spanish, Bars",0.0,0
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Novecento,77.41861893593486,No address,"Italian, Pizza",3.3,3
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Las Murallas,119.381092715455,No address,"Cafeteria, Bars",4.0,1
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Alegría,394.6713779585267,No address,Chinese,3.5,2
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Tatami,86.00977082106215,No address,"Beer Bar, Tapas Bars",0.0,0
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Lavinia 57,929.787302455862,No address,Tapas Bars,3.8,5
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Dany's,77.41861893593486,No address,Tapas Bars,2.0,2
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Punto de Encuentro,704.7121977114774,No address,"Tapas Bars, Pubs",4.0,9
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Vukata,706.8404633903932,No address,Steakhouses,3.5,2
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,El Kiosko de la Pizza,952.5477057669808,No address,Pizza,4.5,4
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,El Timón del Terraza,610.6917636704954,No address,"Arroceria / Paella, Mediterranean",4.5,4
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,American Fries,1533.4442051003584,No address,American,5.0,1
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Bernat,400.4593857709686,No address,"Pizza, Tapas Bars",4.0,1
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Los Arcos,789.9989898880561,No address,"German, Beer Bar",3.0,5
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Pulpería Caracolería,1233.6014303590948,No address,"Spanish, Seafood",3.8,5
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Galatasaray,349.33556681695507,No address,"Bars, Kebab",4.0,2
+02c587332ef68d67fa22a21b242fd857,333 - Illescas - Camarena,40.392175,-3.7562323,9,14,Acueducto,516.0061449546001,No address,Tapas Bars,3.8,5
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,La Musa,293.2886292213181,No address,"Bars, Mediterranean, Breakfast & Brunch",4.3,108
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,80 Grados,350.97058314952614,No address,"Spanish, Tapas Bars",4.2,55
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,La H es Muda,289.5883286747916,No address,Burgers,4.3,38
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,Celso y Manolo,1398.3928298568887,No address,"Tapas Bars, Spanish",4.4,213
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,Burnout,397.0388721571287,No address,"Burgers, American",4.3,31
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,La Tape,200.0213087727615,No address,"Spanish, Beer Bar, Tapas Bars",4.1,40
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,Sala de Despiece,1071.6076507823625,No address,"Gastropubs, Tapas Bars, Tabernas",4.3,100
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,Lakasa,1297.354992250277,No address,"Spanish, Signature Cuisine",4.8,55
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,Angelita,1259.2667816840235,No address,"Spanish, Wine Bars, Cocktail Bars",4.8,48
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,Federal,400.2068924552646,No address,"Breakfast & Brunch, Burgers",4.2,190
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,Tuk Tuk,488.712057184866,No address,Pan Asian,4.2,68
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,Kalúa Helado Artesanal,343.6553915733782,No address,"Juice Bars & Smoothies, Ice Cream & Frozen Yogurt, Cafeteria",4.1,36
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,La Gringa,467.3424074232991,No address,American,4.4,61
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,El Ferry,260.1325176627982,No address,"American, Tapas/Small Plates",4.0,25
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,La Mi Venta,1180.53647491692,No address,"Spanish, Steakhouses",4.6,138
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,La Gastro,1061.8277133878855,No address,"Gastropubs, Spanish, Tapas Bars",4.6,72
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,Chocolatería San Ginés,1506.972270969316,No address,"Chocolatiers & Shops, Churros, Breakfast & Brunch",4.2,1516
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,Pizzaiolo,1039.5043506776035,No address,"Italian, Pizza",4.4,128
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,Bodega de la Ardosa,866.6019348654759,No address,"Wine Bars, Beer Bar, Tapas/Small Plates",4.1,129
+03616e7fc57d3e370fb9126349925d27,3 - Plaza Conde Suchil,40.4303223,-3.7072537,12,7,Carmencita,471.09332533614855,No address,"Modern European, Breakfast & Brunch",4.4,174
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,Sala de Despiece,1259.2578658513855,No address,"Gastropubs, Tapas Bars, Tabernas",4.3,100
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,Lakasa,992.1463252387985,No address,"Spanish, Signature Cuisine",4.8,55
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,Taxi a Manhattan,72.05063852719354,No address,"Mediterranean, American",3.4,39
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,Goiko Grill,401.72144480373566,No address,Burgers,4.4,29
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,Goiko Grill,1439.248294037026,No address,"Burgers, American, Cafeteria",4.3,73
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,Furusato,259.8669898243777,No address,Chinese,4.1,14
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,New York Burger,353.0528827101592,No address,Burgers,4.3,24
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,Diverxo,1280.2075026068874,No address,"Signature Cuisine, Mediterranean",4.5,61
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,La Gabinoteca,1095.737329814258,No address,"Spanish, Modern European",4.1,66
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,O'Pazo,282.52174201082346,No address,"Spanish, Seafood, Galician",4.0,12
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,Honest Greens,343.00448426766553,No address,Vegetarian,4.2,22
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,La Tagliatella,60.10279857725078,No address,Italian,4.0,7
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,Ristorante Il Pastaio,763.9433028150657,No address,Italian,4.5,24
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,InterContinental Madrid,1453.0875780193303,No address,"Hotels, Venues & Event Spaces, International",4.4,36
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,MadrEAT,320.50014674042853,No address,"Festivals, Spanish, Food Trucks",3.8,25
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,El Barril de Orense,34.43911803879363,No address,Mediterranean,4.7,3
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,Miyama,1538.1049151510847,No address,"Japanese, Sushi Bars",4.5,30
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,La Consentida,301.09075299358074,No address,"Spanish, Tapas Bars, Steakhouses",3.9,9
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,Piccola Napoli,524.6459238334418,No address,"Pizza, Italian",4.5,15
+03f33f7f29d1c6baddeffc240c7dce2a,151 - Orense 12,40.44881224951987,-3.695359265012366,13,14,Tierra,874.0386440900794,No address,"American, Mexican, Vegetarian",4.5,21
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,Casa Pepe,213.35325059624196,No address,Tapas Bars,3.6,22
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,Asador Donostiarra,1740.331197077233,No address,"Steakhouses, Basque, Spanish",4.1,32
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,La Cantina de la Estación,1951.2283242156427,No address,"Tapas Bars, Spanish, Asturian",4.2,21
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,Shangai Mama,1837.8256597632887,No address,Chinese,4.7,6
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,La Antequerana,1767.2577653714266,No address,"Spanish, Tapas Bars, Andalusian",4.2,11
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,Viejo Almacén de Buenos Aires,1413.8528529227024,No address,"Argentine, Steakhouses, Music Venues",4.7,7
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,Matcha,1817.4965394580329,No address,"Asian Fusion, Sushi Bars",4.5,11
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,Alright,1362.021155155635,No address,"Burgers, Desserts, Steakhouses",4.6,7
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,Casa Juan,1765.4519203036812,No address,"Steakhouses, Basque, Spanish",3.7,19
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,Taberna Txapela,175.42782189029353,No address,"Bistros, Tabernas",5.0,1
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,La Maquina,1957.0419449891128,No address,"Spanish, Asturian, Seafood",4.2,6
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,Ibiza,28.626051230541453,No address,Cafeteria,3.0,1
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,Don Lisander Trattoria,1792.177866629707,No address,"Italian, Pizza",4.2,9
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,Oriental Palace,1271.0326839281472,No address,Chinese,5.0,4
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,Mesón Txistu,1821.270439696284,No address,"Basque, Spanish, Steakhouses",3.3,12
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,St. James,1864.6510335159371,No address,"Spanish, Tapas/Small Plates, Tapas Bars, Modern European",4.8,4
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,Pizzeria San Antonio,341.2814222091989,No address,Pizza,4.0,2
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,El Jamón y el Churrasco,1835.3473175412255,No address,Spanish,4.8,5
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,Ti Amo,506.569764349686,No address,"Italian, Pizza",4.0,4
+03ffff04a43ff9d80d751e07d3faf8a7,574 - Chantada,40.472695,-3.710678,8,15,Menta y Chocolate,1219.5639499277363,No address,"Cafeteria, Patisserie/Cake Shop, Bakeries",5.0,1
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,Go Hyang Mat,179.50930009058612,No address,Korean,4.4,10
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,El Rincón Asturiano,1213.8136262898713,No address,"Spanish, Asturian, Tapas Bars",4.3,39
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,Cafelito,1504.4356943875084,No address,"Coffee & Tea, Breakfast & Brunch",4.6,71
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,Donde da la Vuelta el Viento,1247.4102316392568,No address,"Tapas Bars, Spanish, Modern European",4.3,39
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,El Valle,967.106452766936,No address,"Asturian, Tapas Bars",4.2,21
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,Tribuetxe,1401.6696056855264,No address,"Basque, Tapas/Small Plates",4.4,23
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,Atocha Tandoori,1204.6227817477234,No address,Indian,4.9,18
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,O Pazo de Lugo,1424.310904570625,No address,"Spanish, Galician, Tapas/Small Plates",4.1,56
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,Pui Thai Tapas,1111.4882084815558,No address,Thai,4.2,31
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,Costello Río,280.0382866940972,No address,"Music Venues, Burgers, Lounges",3.0,28
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,La Tabacalera,1269.680625355959,No address,"Social Clubs, Coffee & Tea",4.5,19
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,Bodegas Rosell,1262.8662460150997,No address,"Spanish, Tapas/Small Plates",3.9,31
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,Mis Tradiciones,1032.5604073342097,No address,Peruvian,4.1,13
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,Venta Matadero,303.9029977990144,No address,Tapas Bars,3.3,15
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,Buen Gusto,769.2060668200301,No address,"Chinese, Asian Fusion",4.1,19
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,IGo Pasta,1611.624058662646,No address,"Chinese, Asian Fusion, Ramen",3.8,23
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,Juan Raro,1334.4324787363114,No address,"Spanish, Cafeteria, Gastropubs",4.1,12
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,Havana Blues,813.1354070603168,No address,"Cuban, Beer Bar",4.6,12
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,La Pequeña Graná,514.2249843974433,No address,"Tapas Bars, Tapas/Small Plates, Beer Bar",4.2,39
+04151db362cd348bd69553fd445ab165,267 - Paseo de la Chopera - Fernando Poo,40.39500000000003,-3.700399664723874,12,11,Royal Cantonés,1345.047588969425,No address,Dim Sum,4.1,28
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,IGo Pasta,133.59885758507318,No address,"Chinese, Asian Fusion, Ramen",3.8,23
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,Royal Cantonés,755.814003598014,No address,Dim Sum,4.1,28
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,Xallas,54.07990672380643,No address,Rotisserie Chicken,3.5,2
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,Bardo y Sanchez,22.80508318454779,No address,Restaurants,0.0,0
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,Costello Río,1743.9817336822546,No address,"Music Venues, Burgers, Lounges",3.0,28
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,Taberna La Andaluza,1364.3746010617144,No address,"Tapas Bars, Tapas/Small Plates",3.7,10
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,Jin Gu,264.9091671844299,No address,Chinese,4.0,1
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,Los Cigarrales,1503.409151218384,No address,Spanish,4.5,4
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,Asdor de Pollos,62.78602418082375,No address,Rotisserie Chicken,4.0,1
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,Pollos Asados,60.26633056904669,No address,Rotisserie Chicken,0.0,0
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,La Parrilla III,802.6618840170433,No address,Steakhouses,4.0,5
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,Bukanas,134.69056007631346,No address,"Spanish, Latin American, Bars",0.0,0
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,La Piazzola,1196.5147918254236,No address,"Burgers, Pizza, Sandwiches",4.7,3
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,La Taberna de Usera,1111.7128330723774,No address,"Steakhouses, Tabernas",4.7,3
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,Venta Matadero,1722.38953973182,No address,Tapas Bars,3.3,15
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,Comidas Caseras Para Llevar,68.09260501218407,No address,"Rotisserie Chicken, Arroceria / Paella",0.0,0
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,La Casa del Pulpo,1107.4509904373897,No address,"Seafood, Tapas/Small Plates, Galician",4.0,10
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,Usera,60.2987695499343,No address,Rotisserie Chicken,0.0,0
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,La Peña Soriana,104.07836379421929,No address,Spanish,3.0,1
+0421375b66b9538e3622294004e486ea,391 - Junta Municipal Distrito de Usera,40.3817026328731,-3.711296220901499,10,13,Asador Ricardo,979.4718566004876,No address,Steakhouses,4.0,1
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,La Villa,167.16496796287157,No address,"Beer Bar, Tapas Bars, Cafeteria",3.3,3
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,El Mantel,1607.2408849956655,No address,Spanish,4.3,3
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,La Merced,826.736091439892,No address,"Spanish, Tapas/Small Plates",4.7,3
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,Mi Capricho,234.5085328421121,No address,"Spanish, Tapas Bars",0.0,0
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,EL Fogón de Paco,1409.0563006123086,No address,Restaurants,4.5,2
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,Muxia,1432.5340742258825,No address,"Spanish, Tapas/Small Plates, Galician",4.0,3
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,MacDonald's,480.6097485479792,No address,"Burgers, American",0.0,0
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,Burger King,1401.304945426324,No address,"Fast Food, Burgers",4.0,1
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,Sat Cafeteras,681.7083529556531,No address,Cafeteria,0.0,0
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,El Lagar,1631.6882266908226,No address,Spanish,4.0,1
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,Asador de pollos El Chulipollo,997.5249349776104,No address,"Food Delivery Services, Rotisserie Chicken",5.0,1
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,Asador Llopis,1441.2252424345318,No address,"Steakhouses, Mediterranean, Tapas Bars",3.0,1
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,Franva,1129.8447346257396,No address,"Beer Bar, Tapas Bars, Cafeteria",5.0,1
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,Asador Lorena,839.0000235851741,No address,"Rotisserie Chicken, Mediterranean",1.0,1
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,Burguer Emilio's,1018.8816713183436,No address,"Burgers, Sandwiches",4.0,1
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,Palacio del Pollo,856.5578166410316,No address,"Food Delivery Services, Rotisserie Chicken",0.0,0
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,Frescafé,1110.804044624209,No address,"Cafeteria, Ice Cream & Frozen Yogurt",5.0,1
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,Lurca,880.6200950390587,No address,Restaurants,0.0,0
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,Calidad Diaz,1409.0098024877916,No address,"Food, Chicken Shop, Restaurant Supplies",0.0,0
+045f23753c9948fb2942c8758f82c9b4,434 - Charleroi - Cocherón de la Villa,40.38191654,-3.632193720000001,17,7,Papa John's,1760.9793085533922,No address,Pizza,0.0,0
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,Bahía Taberna,1050.4328510764117,No address,"Mediterranean, Tabernas, Cocktail Bars",4.6,16
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,Campanilla,770.4044906092738,No address,Spanish,4.8,72
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,Al Traste Fun And Food,909.1952346924422,No address,"Burgers, Pizza, Sandwiches",4.0,22
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,La General,890.5351071949922,No address,"Pizza, Bakeries",4.8,14
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,Kathmandu Tandoori House,1029.4221807716171,No address,"Indian, Pakistani, Himalayan/Nepalese",5.0,20
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,Asador Nuevo Porche,725.8205673782516,No address,Steakhouses,4.7,9
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,La Torino,1123.8812454950244,No address,Argentine,4.8,5
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,Derzu,1214.427305043008,No address,Asian Fusion,4.8,4
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,Martes 13,758.2573119408232,No address,"Mediterranean, Gastropubs, Spanish",4.5,6
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,La Latina,747.7639901118494,No address,Gastropubs,3.8,9
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,No Q No,1188.2258234276094,No address,"Mexican, Gastropubs, Cocktail Bars",4.5,4
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,La Vina de Nerea,847.093625007085,No address,Spanish,4.5,4
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,El Txoko de Ander,723.20558498498,No address,Spanish,4.4,5
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,Churreria Avenida,205.9455130001947,No address,"Churros, Cafeteria",3.3,3
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,Dreams,857.0769013368345,No address,"Beer Bar, Cafeteria, Cocktail Bars",5.0,1
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,Al Tran Tran,741.4149405804086,No address,"Gastropubs, Spanish",4.0,1
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,Tuk Tuk,922.8073465641868,No address,Pan Asian,4.3,3
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,Casa Nemesia,1122.3490125367755,No address,Seafood,4.0,1
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,La Caprichosa,1119.7184392890233,No address,Tabernas,4.5,2
+053356682797aad665aaa611520dee60,560 - Playa de Zarauz - Playa de la Caleta,40.4731404,-3.5906847,10,13,Bahía Bistró,881.5090627506011,No address,Spanish,4.7,3
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,Tuk Tuk,174.15544190330456,No address,Pan Asian,4.2,68
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,La Musa,161.47704699202689,No address,"Bars, Mediterranean, Breakfast & Brunch",4.3,108
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,80 Grados,100.5676714825964,No address,"Spanish, Tapas Bars",4.2,55
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,La H es Muda,164.24764377336768,No address,Burgers,4.3,38
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,Rosi La Loca,1425.1737674407675,No address,"Tapas Bars, Spanish",4.4,232
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,Celso y Manolo,1030.4043507097422,No address,"Tapas Bars, Spanish",4.4,213
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,Ojalá,368.23417901438233,No address,"Lounges, Mediterranean, Breakfast & Brunch",4.1,148
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,Goiko Grill,104.81746036556956,No address,Burgers,4.0,44
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,The Stuyck Co.,245.3510827262144,No address,"Tapas Bars, Beer Bar, Gastropubs",4.3,28
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,La Tape,293.1963444750673,No address,"Spanish, Beer Bar, Tapas Bars",4.1,40
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,La Fragua de Sebín,162.2304608314105,No address,"Modern European, Spanish, Mediterranean",4.4,28
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,Il Regno di Napoli,127.96599218017786,No address,Italian,4.8,20
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,Madrid Madriz,280.65017745511074,No address,"Tapas/Small Plates, Spanish, Tapas Bars",3.8,34
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,Sala de Despiece,1065.7223063700096,No address,"Gastropubs, Tapas Bars, Tabernas",4.3,100
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,Nuria,37.53644215458104,No address,"African, Cafeteria, Vegetarian",4.3,23
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,Ten con Ten,1139.027871486892,No address,Modern European,4.2,216
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,Angelita,945.536756001974,No address,"Spanish, Wine Bars, Cocktail Bars",4.8,48
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,Burnout,440.6259817351533,No address,"Burgers, American",4.3,31
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,Pajarita,277.5345742872771,No address,"Signature Cuisine, Gastropubs, Tapas Bars",4.0,23
+0542240f2d949ee369ca4dbd1805603c,4 - Malasaña,40.4286259,-3.7025,27,2,Kalúa Helado Artesanal,309.5728690316064,No address,"Juice Bars & Smoothies, Ice Cream & Frozen Yogurt, Cafeteria",4.1,36
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,Más Al Sur,1449.6135187294306,No address,Spanish,4.5,155
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,El Rincón Asturiano,777.0231681598417,No address,"Spanish, Asturian, Tapas Bars",4.3,39
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,La Bodega de Los Secretos,1496.0628956439648,No address,"Spanish, Mediterranean",4.4,46
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,Ôven,1365.2597220620596,No address,"Italian, Bars",4.4,40
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,Cafelito,1423.771467997197,No address,"Coffee & Tea, Breakfast & Brunch",4.6,71
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,Los Porfiados,1482.1811424629311,No address,"Argentine, Spanish",4.6,33
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,Donde da la Vuelta el Viento,1152.0455285730004,No address,"Tapas Bars, Spanish, Modern European",4.3,39
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,Corazón Agavero Mezcaloteca,1902.6991122742295,No address,"Cocktail Bars, Mexican",4.7,17
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,Atocha Tandoori,872.3928148554158,No address,Indian,4.9,18
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,El Valle,842.0109467886637,No address,"Asturian, Tapas Bars",4.2,21
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,Go Hyang Mat,396.1766930704631,No address,Korean,4.4,10
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,Tribuetxe,1346.7407964621043,No address,"Basque, Tapas/Small Plates",4.4,23
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,MartinaCocina,1825.798964359832,No address,"Modern European, Coffee & Tea, Caterers",4.4,37
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,O Pazo de Lugo,1141.7698677244905,No address,"Spanish, Galician, Tapas/Small Plates",4.1,56
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,Steak Burger,1382.2709695914937,No address,"American, Burgers, Steakhouses",4.1,29
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,Don Giovanni,1639.3228783266918,No address,Italian,4.4,18
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,Pui Thai Tapas,835.7226312110672,No address,Thai,4.2,31
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,La Cevicuchería,1350.2407986978333,No address,"Peruvian, Cocktail Bars",4.3,28
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,Boconó,1810.3811422688489,No address,"Coffee & Tea, Breakfast & Brunch, Mediterranean",4.6,25
+0669ab60bdcbe696e4fd80d634dc0753,164 - Paseo de las Delicias - Tomás Bretón,40.39723,-3.69461,14,12,La Tabacalera,1229.6489783284242,No address,"Social Clubs, Coffee & Tea",4.5,19
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,La Musa,154.17931700708223,No address,"Bars, Mediterranean, Breakfast & Brunch",4.3,108
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,80 Grados,210.0058371281573,No address,"Spanish, Tapas Bars",4.2,55
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,InClan Brutal,1536.850197771584,No address,"Tapas Bars, Mediterranean",4.5,192
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,Rosi La Loca,1432.1277334134645,No address,"Tapas Bars, Spanish",4.4,232
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,La H es Muda,222.10887203023705,No address,Burgers,4.3,38
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,La Gringa,297.9901558714961,No address,American,4.4,61
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,Carmencita,286.4234365067805,No address,"Modern European, Breakfast & Brunch",4.4,174
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,Celso y Manolo,1177.2230127458058,No address,"Tapas Bars, Spanish",4.4,213
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,Ojalá,375.9972046341063,No address,"Lounges, Mediterranean, Breakfast & Brunch",4.1,148
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,Federal,305.1266497271236,No address,"Breakfast & Brunch, Burgers",4.2,190
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,Tuk Tuk,428.1994049208403,No address,Pan Asian,4.2,68
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,La Fragua de Sebín,217.7923387388693,No address,"Modern European, Spanish, Mediterranean",4.4,28
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,Toma Café,222.02534334682835,No address,"Coffee & Tea, Breakfast & Brunch",4.4,222
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,El Mesón del Champiñón,1506.4997727508342,No address,"Spanish, Tapas Bars",4.5,140
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,Sala de Despiece,1193.7408036903914,No address,"Gastropubs, Tapas Bars, Tabernas",4.3,100
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,Il Regno di Napoli,227.34488721374788,No address,Italian,4.8,20
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,Angelita,1032.8074085900853,No address,"Spanish, Wine Bars, Cocktail Bars",4.8,48
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,La Tape,42.29117031363841,No address,"Spanish, Beer Bar, Tapas Bars",4.1,40
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,Ten con Ten,1445.851279927943,No address,Modern European,4.2,216
+0688dc6b7492e29793c6cc6bb1974a6e,12 - San Hermenegildo,40.4284667,-3.7061406,21,6,Nuria,271.9786469239957,No address,"African, Cafeteria, Vegetarian",4.3,23
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,Casa Benigna,1294.6714038338466,No address,Arroceria / Paella,4.8,70
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,Gaytan,1341.067962590769,No address,Signature Cuisine,5.0,8
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,El Rinconcito de Juan,1280.5220634205978,No address,Tapas Bars,4.1,15
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,Cachivache Taberna,946.4318354114956,No address,"Spanish, Tapas Bars",4.0,12
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,The Knife,1741.6198779539766,No address,"Steakhouses, Argentine",4.1,22
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,El Bund,826.4651318855008,No address,Dim Sum,3.7,19
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,Solidere,712.9491380549089,No address,Middle Eastern,4.3,8
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,Fass,1218.698097793278,No address,German,4.1,12
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,La Ancha,1316.870134007805,No address,"Spanish, Diners",4.2,17
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,Muuu Tapelia,1040.6422644666302,No address,"Spanish, Tapas/Small Plates",4.0,11
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,Evboca,1343.5483716614983,No address,"Spanish, Tapas/Small Plates",4.3,11
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,Goiko Grill,1114.022330499065,No address,"American, Burgers",4.0,11
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,Samm,648.8451113950454,No address,"Arroceria / Paella, Tapas/Small Plates",3.9,18
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,Cazorla,1303.4811357756253,No address,"Spanish, Tapas Bars, Andalusian",4.2,9
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,El Quenco de Pepa,1397.7959313127778,No address,Modern European,4.8,6
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,Thai Gardens,540.8607974782504,No address,Thai,3.7,12
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,China Te,1334.195749782207,No address,Dim Sum,3.9,11
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,Piccolo Grande Amore,435.86608425760056,No address,"Pizza, Italian",4.3,3
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,Friends Tavern,1180.6909796749233,No address,"Pubs, Mediterranean",4.3,6
+06b66d970d1f1dfa2ab4bf46b00186a6,291 - Plaza José María Soler,40.45866532,-3.66790332,11,12,Pipa & Co,1189.4025211262608,No address,"Spanish, Signature Cuisine",3.3,16
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,Bodegas Rosell,7.298603910568474,No address,"Spanish, Tapas/Small Plates",3.9,31
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,InClan Brutal,1555.268993246107,No address,"Tapas Bars, Mediterranean",4.5,192
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,Rosi La Loca,1679.7848817368645,No address,"Tapas Bars, Spanish",4.4,232
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,Tinto y Tapas,838.8360222676462,No address,"Tapas Bars, Wine Bars, Tabernas",4.5,177
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,El Rincón Asturiano,114.961280402021,No address,"Spanish, Asturian, Tapas Bars",4.3,39
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,El Mesón del Champiñón,1917.9732603235327,No address,"Spanish, Tapas Bars",4.5,140
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,Cacao Restobar,1095.8965463155378,No address,"Mediterranean, Venezuelan, Wine Bars",4.8,107
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,El Sur,1086.0875804140867,No address,Tapas Bars,4.5,915
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,Botín,1846.3935523863847,No address,"Spanish, Steakhouses",4.0,802
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,Cardamomo Tablao Flamenco,1486.4745093858758,No address,"Spanish, Tablao Flamenco",4.4,123
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,TriCiclo,1138.2717349082402,No address,"Tapas Bars, Spanish, Modern European",4.4,94
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,Chocolatería San Ginés,1971.0477424648927,No address,"Chocolatiers & Shops, Churros, Breakfast & Brunch",4.2,1516
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,Taberna La Concha,1807.277633129664,No address,Tapas Bars,4.5,69
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,La Casa del Abuelo,1607.435380350903,No address,"Spanish, Tapas/Small Plates, Seafood",4.1,220
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,La Malontina,962.8146384222716,No address,Modern European,4.7,125
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,Casa Toni,1600.238879227285,No address,"Tapas/Small Plates, Spanish",4.5,117
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,Salmón Gurú,1433.444279581876,No address,"Cocktail Bars, Gastropubs",4.6,94
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,Metro Bistro,1803.0880221170275,No address,"Mediterranean, Spanish, Signature Cuisine",4.6,39
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,La Cabaña Argentina,1492.6244605770448,No address,"Argentine, Steakhouses",4.5,80
+0767386731d76c7db66ed2b073c6b540,273 - Delicias - General Lacy,40.40381914,-3.69091831,5,14,Chocolat,1134.3010616274812,No address,"Cafeteria, Churros, Chocolatiers & Shops",4.3,83
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,Aynaelda,823.6538690423996,No address,Spanish,3.9,9
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,Cafetería Nabor,221.6714328215064,No address,Tapas Bars,3.5,4
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,La Quietud Tiyoweh,4928.914060633676,No address,"Cafeteria, Reiki, Vegetarian",4.0,12
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,Pizzería Carlos,600.0288802765915,No address,Pizza,4.5,4
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,Mesón Los Arcos,162.8470710524335,No address,Tapas Bars,3.0,1
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,American Fries,1458.0090576355651,No address,American,5.0,1
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,El Kiosko de la Pizza,1328.723324472228,No address,Pizza,4.5,4
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,Trattoria La Famiglia,254.32903997973935,No address,Italian,0.0,0
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,Gran Barril,622.7529467266847,No address,"Beer Bar, Breakfast & Brunch",4.0,1
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,Victoria III,548.9767905228922,No address,Dim Sum,4.0,5
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,San Matías,1311.2095060987413,No address,"Spanish, Tapas Bars",3.8,4
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,Eiffel,812.8662722363629,No address,Spanish,4.0,1
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,Los Arcos,1441.7961259600452,No address,"German, Beer Bar",3.0,5
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,Döner Kebab Antep,615.9664093724439,No address,"Turkish, Fast Food",4.5,2
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,La Fuente,398.1108164887575,No address,"Dive Bars, Tapas/Small Plates",4.0,1
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,Alegría,1490.797221908232,No address,Chinese,3.5,2
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,Gancho y Directo,1225.9986442400907,No address,Burgers,0.0,0
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,Semial,812.8662722363629,No address,Restaurants,4.0,1
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,Croquetas y Más,523.7457425730329,No address,"Spanish, Rotisserie Chicken, Fast Food",0.0,0
+07917657d70ca9cad36e6d64aebd4bc7,"328 - Cebreros, 97",40.4032379,-3.7521917,4,19,El Pinar,229.148644178839,No address,Restaurants,0.0,0
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,InClan Brutal,1456.4221821000283,No address,"Tapas Bars, Mediterranean",4.5,192
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,Juana la Loca,1656.104624829853,No address,"Tapas/Small Plates, Spanish",4.6,240
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,Rosi La Loca,1574.2549214742642,No address,"Tapas Bars, Spanish",4.4,232
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,El Rincón Asturiano,238.9893478616592,No address,"Spanish, Asturian, Tapas Bars",4.3,39
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,Casa Lucas,1607.273560822656,No address,"Tapas Bars, Wine Bars",4.6,177
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,Tinto y Tapas,865.7788011801107,No address,"Tapas Bars, Wine Bars, Tabernas",4.5,177
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,El Mesón del Champiñón,1740.8035308548613,No address,"Spanish, Tapas Bars",4.5,140
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,Cacao Restobar,1062.8717982513945,No address,"Mediterranean, Venezuelan, Wine Bars",4.8,107
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,Atocha Tandoori,221.18948053403025,No address,Indian,4.9,18
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,El Sur,970.8630197302568,No address,Tapas Bars,4.5,915
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,Botín,1660.630981891481,No address,"Spanish, Steakhouses",4.0,802
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,Cardamomo Tablao Flamenco,1432.6124340081622,No address,"Spanish, Tablao Flamenco",4.4,123
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,TriCiclo,1104.356348758764,No address,"Tapas Bars, Spanish, Modern European",4.4,94
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,Pui Thai Tapas,227.2912895158129,No address,Thai,4.2,31
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,Taberna La Concha,1604.4482936965735,No address,Tapas Bars,4.5,69
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,La Casa del Abuelo,1522.0022756980322,No address,"Spanish, Tapas/Small Plates, Seafood",4.1,220
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,La Malontina,966.2272533784208,No address,Modern European,4.7,125
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,Casa Lucio,1608.0098786244127,No address,"Spanish, Basque",4.0,94
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,Casa Toni,1508.362312636934,No address,"Tapas/Small Plates, Spanish",4.5,117
+085600da09c0d014cc8c2ea307b290cb,120 - Metro Palos de la Frontera,40.40309045143061,-3.694825101852421,27,1,Salmón Gurú,1374.487479602948,No address,"Cocktail Bars, Gastropubs",4.6,94
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Lakasa,1241.139088132061,No address,"Spanish, Signature Cuisine",4.8,55
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Sala de Despiece,1443.0256221349266,No address,"Gastropubs, Tapas Bars, Tabernas",4.3,100
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Casa Benigna,1399.2952125992197,No address,Arroceria / Paella,4.8,70
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,New York Burger,132.6276005895427,No address,Burgers,4.3,24
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Goiko Grill,1317.4785319464688,No address,"Burgers, American, Cafeteria",4.3,73
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Diverxo,1056.6304630199002,No address,"Signature Cuisine, Mediterranean",4.5,61
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Honest Greens,123.11433609403616,No address,Vegetarian,4.2,22
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,La Gabinoteca,1176.1656893664297,No address,"Spanish, Modern European",4.1,66
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Zen Market,365.29068118037225,No address,"Chinese, Japanese",3.7,25
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Midtown,152.61405730936633,No address,"Spanish, Bars",5.0,4
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Goiko Grill,622.2895867282693,No address,Burgers,4.4,29
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,MadrEAT,264.5829297966534,No address,"Festivals, Spanish, Food Trucks",3.8,25
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,InterContinental Madrid,1419.1885713340291,No address,"Hotels, Venues & Event Spaces, International",4.4,36
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Ristorante Il Pastaio,938.120544179474,No address,Italian,4.5,24
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Miyama,1494.5190452667416,No address,"Japanese, Sushi Bars",4.5,30
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Taxi a Manhattan,456.47321042491166,No address,"Mediterranean, American",3.4,39
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Tierra,837.1743585463811,No address,"American, Mexican, Vegetarian",4.5,21
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Furusato,558.9909100578215,No address,Chinese,4.1,14
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Lateral,116.81368264618828,No address,"Bars, Spanish, Seafood",3.1,19
+08992128d0e8466b9989b6afbd88b7bb,150 - Castellana - Hermanos Pinzón,40.4491,-3.6908,10,12,Alfredo's Barbacoa,1301.8155131749525,No address,"American, Burgers",3.9,56
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,InClan Brutal,1250.7371023471771,No address,"Tapas Bars, Mediterranean",4.5,192
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,Rosi La Loca,1372.0686017443386,No address,"Tapas Bars, Spanish",4.4,232
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,Tinto y Tapas,489.91508581291913,No address,"Tapas Bars, Wine Bars, Tabernas",4.5,177
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,Celso y Manolo,1366.857588726761,No address,"Tapas Bars, Spanish",4.4,213
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,Cacao Restobar,758.3594701179895,No address,"Mediterranean, Venezuelan, Wine Bars",4.8,107
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,El Sur,918.3090520605906,No address,Tapas Bars,4.5,915
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,Cardamomo Tablao Flamenco,1104.1747527371206,No address,"Spanish, Tablao Flamenco",4.4,123
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,Ôven,389.47272702296414,No address,"Italian, Bars",4.4,40
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,Angelita,1521.0171474097683,No address,"Spanish, Wine Bars, Cocktail Bars",4.8,48
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,TriCiclo,789.7344630657008,No address,"Tapas Bars, Spanish, Modern European",4.4,94
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,La Casa del Abuelo,1269.052533623918,No address,"Spanish, Tapas/Small Plates, Seafood",4.1,220
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,La Malontina,600.2864954014892,No address,Modern European,4.7,125
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,Chocolat,780.8785808027158,No address,"Cafeteria, Churros, Chocolatiers & Shops",4.3,83
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,Casa Toni,1275.512939166216,No address,"Tapas/Small Plates, Spanish",4.5,117
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,Salmón Gurú,1069.347450208176,No address,"Cocktail Bars, Gastropubs",4.6,94
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,La Cabaña Argentina,1086.5026381533255,No address,"Argentine, Steakhouses",4.5,80
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,Marina Ventura,1053.6664213165147,No address,"Arroceria / Paella, Mediterranean, Seafood",4.5,78
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,La Gastro,1757.1500036084094,No address,"Gastropubs, Spanish, Tapas Bars",4.6,72
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,El 17 de Moreto,365.3396483039812,No address,"Tapas Bars, Breakfast & Brunch, Spanish",4.1,33
+08edb2920d275afbfbf92b70d7cc4d34,69 - Parque del Retiro - Puerta Ángel Caído,40.409808,-3.688822,7,20,La Bodega de Los Secretos,506.1369286236565,No address,"Spanish, Mediterranean",4.4,46
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,Oriental Victoria,81.84712001383458,No address,Chinese,2.5,2
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,El Asador de Enrique,1734.3488653379486,No address,Steakhouses,3.4,5
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,Bar Linea 123,530.968900125846,No address,"Bars, Cafeteria",0.0,0
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,El Yate De Vigo,932.537867877912,No address,Spanish,4.5,2
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,Tejas verdes,1160.617859693639,No address,Restaurants,4.0,1
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,Prosperidad,652.9511788303506,No address,Chinese,5.0,1
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,Cervecería Cruz Blanca,1213.9449356146808,No address,"Tapas Bars, Mediterranean, Beer Bar",0.0,0
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,La Ñora,611.3906328459848,No address,Cafeteria,0.0,0
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,Catering Lucia & Joaquin,628.0934281849877,No address,"Restaurants, Hotels",0.0,0
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,Muñoz,1841.9415816936528,No address,"Tapas Bars, Sandwiches, Steakhouses",0.0,0
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,Los Angeles,443.4367219172301,No address,,0.0,0
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,Tu Vida Facil,355.2083032665466,No address,"Salad, Sandwiches, Coffee & Tea",0.0,0
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,Maytetxu,1392.0558013892255,No address,Spanish,3.0,2
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,Bar Jaime,1890.4541657961363,No address,Tapas/Small Plates,0.0,0
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,La Posada de Coti,1486.8293036405785,No address,"Spanish, Beer Bar, Tapas Bars",0.0,0
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,El Zaguan,788.9696248092347,No address,Spanish,4.5,2
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,Trocadero,731.5779432903751,No address,Tapas Bars,3.0,3
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,Cafeteria San Francisco,357.21455987022745,No address,Cafeteria,0.0,0
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,Asador Enrique,1780.7834837563914,No address,Steakhouses,5.0,1
+096421580f355d3cdaafd90948ef579d,"407 - Carmen de Burgos, 4",40.3575459,-3.6847883,9,14,Pleniocio Compani,416.124623846573,No address,Restaurants,0.0,0
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,Los Montes de Galicia,1082.6611159250058,No address,"Spanish, Bars",4.6,77
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,Betelu,242.91086222057297,No address,"Seafood, Basque",4.6,9
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,La Manduca,266.1902536623825,No address,"Spanish, Tapas Bars",4.7,20
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,Tandoori Station,1436.374159630539,No address,Indian,4.5,75
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,Docamar,642.6967118351347,No address,"Spanish, Tapas Bars, Tapas/Small Plates",4.1,44
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,El Gran Barril,1867.5475652968908,No address,"Seafood, Spanish",4.5,17
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,Tablao Flamenco La Quimera,1191.5597584340833,No address,"Restaurants, Tablao Flamenco",4.6,18
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,Purnima,1722.1478117142087,No address,Indian,4.3,14
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,Tierra Trágame,139.4529761324283,No address,"Cafeteria, Bars",4.3,3
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,El Pescador,1579.7757272532644,No address,Seafood,4.3,17
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,La Gaditana,1721.4967958936911,No address,"Seafood, Tapas Bars, Andalusian",3.9,16
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,A'Conchiña,559.4855999855149,No address,"Tapas Bars, Tapas/Small Plates, Dive Bars",4.2,27
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,El Rincon de Jaén,1636.525277995764,No address,"Spanish, Tapas Bars, Andalusian",4.1,21
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,Entre Cáceres y Badajoz,1491.83401107466,No address,"Spanish, Tapas Bars",3.9,48
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,La Casa del Paleto,134.7508899105861,No address,Spanish,3.7,3
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,El Fogón de Trifón,1651.427816125294,No address,"Salad, Wine Bars, Gastropubs",4.6,8
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,Monty's,1041.5511160789815,No address,"Tapas Bars, Spanish, Tapas/Small Plates",4.0,4
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,Sapama,1270.586792620834,No address,"Tapas/Small Plates, Spanish, Tapas Bars",3.7,28
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,Los Nachos de Oro,88.73671511255586,No address,Mexican,0.0,0
+09d52bf750fa35f9f05186a639cde834,189 - Virgen de la Alegría,40.4351256,-3.655491800000001,20,3,Pizzería Carlos,391.71214439439456,No address,Pizza,4.3,3
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,Estrella,435.55908184630266,No address,"Steakhouses, Spanish, Rotisserie Chicken",5.0,1
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,La Taberna de Chana - Valdebernardo,654.7409235868191,No address,"Spanish, Tapas/Small Plates",4.0,1
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,Mayte,1135.7761276333706,No address,"Bakeries, Desserts, Cafeteria",5.0,3
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,Yong Tai,803.4940941604295,No address,Chinese,4.0,1
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,La Birra es Bella,787.2743071189676,No address,Spanish,4.0,1
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,La Era,673.5750017115395,No address,"Tapas/Small Plates, Spanish",5.0,1
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,El Trasgu,771.6506420469676,No address,"Asturian, Tapas Bars, Tapas/Small Plates",4.0,4
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,La Taberna de Chana,1080.1915192245694,No address,"Spanish, Tapas/Small Plates",3.3,4
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,Cerveceria Tongqi,949.0439056329566,No address,Spanish,4.0,1
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,Taberna 31 Real,257.301791568134,No address,Restaurants,0.0,0
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,Lucy,1535.4580630834712,No address,"Steakhouses, Cafeteria, Tapas Bars",5.0,1
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,El Filón de Cota,659.4634342198611,No address,"Tapas/Small Plates, Bars",3.0,1
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,Makelebule,668.5942178054717,No address,Spanish,4.0,1
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,El Toledano,763.2691794076043,No address,"Spanish, Bars",2.0,2
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,Antep Kebap,830.3837072069451,No address,"Kebab, Fast Food",0.0,0
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,Mami Burger,1419.1400434121772,No address,Burgers,4.0,2
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,Las Vegas,970.6183526435616,No address,Tapas Bars,3.0,1
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,Burger King,888.1776274339989,No address,"Fast Food, Burgers",0.0,0
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,Asador de pollos El Chulipollo,1534.954700172333,No address,"Food Delivery Services, Rotisserie Chicken",5.0,1
+09d8b4be88f3e3e065d00d4875d2c841,"455 - Luis de Hoyos Sainz,  198",40.400094,-3.62927465,11,12,El Rocio,1069.4033844726448,No address,"Tapas Bars, Lounges",2.0,2
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,Ojalá,30.860038957582976,No address,"Lounges, Mediterranean, Breakfast & Brunch",4.1,148
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,La Pescadería,308.0271243595312,No address,Modern European,4.2,59
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,Bodega de la Ardosa,295.3528280880636,No address,"Wine Bars, Beer Bar, Tapas/Small Plates",4.1,129
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,Pez Tortilla,231.21130178574344,No address,"Spanish, Tapas/Small Plates",4.2,53
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,InClan Brutal,1188.1293635058496,No address,"Tapas Bars, Mediterranean",4.5,192
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,Lamucca de Pez,241.24186474311853,No address,"Modern European, Pubs, Spanish",3.8,92
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,Rosi La Loca,1088.649219121183,No address,"Tapas Bars, Spanish",4.4,232
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,La Musa,366.01742725688416,No address,"Bars, Mediterranean, Breakfast & Brunch",4.3,108
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,80 Grados,356.85419191487404,No address,"Spanish, Tapas Bars",4.2,55
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,La Gringa,309.13943705320605,No address,American,4.4,61
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,Carmencita,268.9186207238636,No address,"Modern European, Breakfast & Brunch",4.4,174
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,Celso y Manolo,832.7745976872213,No address,"Tapas Bars, Spanish",4.4,213
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,Oven,311.02330494224,No address,"Pizza, Italian",4.1,61
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,Casa Lucas,1532.2611167197103,No address,"Tapas Bars, Wine Bars",4.6,177
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,El Mesón del Champiñón,1216.1452291547164,No address,"Spanish, Tapas Bars",4.5,140
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,La Fragua de Sebín,230.24135745795476,No address,"Modern European, Spanish, Mediterranean",4.4,28
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,The Stuyck Co.,246.251247325402,No address,"Tapas Bars, Beer Bar, Gastropubs",4.3,28
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,Pizzaiolo,533.3504454853518,No address,"Italian, Pizza",4.4,128
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,Madrid Madriz,260.87699259450346,No address,"Tapas/Small Plates, Spanish, Tapas Bars",3.8,34
+0acde392b92f94e6df9915fe96ea3b24,59 - Plaza de Juan Pujol,40.4255495,-3.7043418,2,17,Toma Café,169.84128543476774,No address,"Coffee & Tea, Breakfast & Brunch",4.4,222
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,Vaca Nostra,431.9159912133274,No address,Steakhouses,4.4,12
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,Alfredo's Barbacoa,1281.2081357804725,No address,"American, Burgers",3.9,56
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,La Taberna de Baco,57.62896003428958,No address,"Tapas Bars, Arroceria / Paella, Tabernas",3.8,5
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,L'Albufera,1338.0366889917082,No address,"Gluten-Free, Mediterranean, Arroceria / Paella",4.4,26
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,De María,986.4587653786832,No address,Steakhouses,4.9,13
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,Rolling Dance & Burger,165.7262258992514,No address,"Skating Rinks, Burgers",4.5,4
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,Navelgas,4.352116990509575,No address,Cafeteria,4.0,1
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,Asador Donostiarra,1488.739294617461,No address,"Steakhouses, Basque, Spanish",4.1,32
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,Nitty Gritty,954.6287471576724,No address,"Modern European, Mediterranean, Cocktail Bars",4.6,7
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,Pepe,55.66923120003094,No address,Spanish,3.9,9
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,Rubaiyat,1196.0672892193968,No address,"Brazilian, Steakhouses",4.1,23
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,La Cantina de la Estación,1695.9589993355537,No address,"Tapas Bars, Spanish, Asturian",4.2,21
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,Hamburguesa Nostra,441.23360092015145,No address,Burgers,4.0,8
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,Shangai Mama,1646.0691320793755,No address,Chinese,4.7,6
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,Zielou,143.42035925928076,No address,Gastropubs,5.0,1
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,Santceloni,1429.2122226591518,No address,Signature Cuisine,4.6,12
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,La Chalana,1109.574297495313,No address,"Seafood, Steakhouses, Arroceria / Paella",4.2,13
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,La Antequerana,1669.2417773379675,No address,"Spanish, Tapas Bars, Andalusian",4.2,11
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,La Mafia se sienta a la mesa,451.9210301320214,No address,"Italian, Pizza",4.1,10
+0b3551afdcc49579fada7a02ff562c0f,252 - Est. tren Chamartín - Clara Campoamor,40.4717403,-3.6839695,10,13,Volvoreta,651.7101953933236,No address,Signature Cuisine,4.2,9
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,La Madrina,105.6320557375792,No address,"Latin American, Seafood",5.0,1
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,El Asador de Enrique,1056.483694651224,No address,Steakhouses,3.4,5
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,La Casona,1033.8284776770038,No address,Spanish,4.0,1
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,La Buena Sidra,396.8853873731779,No address,Asturian,1.0,1
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,Peña Ruano Justa de la,169.94348853189402,No address,Restaurants,0.0,0
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,El Asador de Enrique,1150.8517137881545,No address,"Mediterranean, Spanish",0.0,0
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,Bodega La Alegría,779.083491581569,No address,Spanish,5.0,1
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,Cebrian Torres Jose Maria,237.7594707121044,No address,Restaurants,0.0,0
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,Rey Ortega Antonio del,262.2620992589592,No address,Restaurants,0.0,0
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,Telepizza,652.458996079457,No address,Pizza,3.5,2
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,Doner  Kebab,277.29197471970343,No address,Kebab,0.0,0
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,KFC,1597.9712061221562,No address,"Fast Food, Chicken Shop",2.8,5
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,Gastrobar,1005.2804096172866,No address,Gastropubs,5.0,1
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,La Picota,325.175466098168,No address,"Dive Bars, Tapas Bars",0.0,0
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,Arias,450.0974831703748,No address,Tapas Bars,0.0,0
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,Vuelta Suances Jose Manuel,365.4750643256178,No address,Restaurants,0.0,0
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,Asador Enrique,995.7903543830786,No address,Steakhouses,5.0,1
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,Ortiz,1228.4256924309375,No address,Spanish,5.0,1
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,EcoGastro,499.4671980392843,No address,Italian,0.0,0
+0b70c99e5bf72f55380046a68fef8998,"405 - Paseo Alberto Palacios, 42",40.3449259916087,-3.7129039644180377,8,15,Sachër,455.8319584711091,No address,"Restaurants, Hotels",0.0,0
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,La Tagliatella,167.09137732661233,No address,Italian,4.0,4
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,La Caleta,228.90835791797448,No address,Spanish,4.0,4
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,La Parrilla,141.025811210697,No address,Buffets,5.0,1
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,Bar Tapas El Caminito,13.9220238651543,No address,Restaurants,0.0,0
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,Meraki,348.7783107716176,No address,Burgers,4.5,2
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,Il Pomo D'Oro,170.87414001199716,No address,Italian,3.5,2
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,KFC,141.025811210697,No address,"Fast Food, Chicken Shop",3.0,1
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,Pizza Pazza,1955.9266422846276,No address,"Pizza, Italian",4.0,6
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,Asador Avelino,1065.557398103983,No address,Steakhouses,4.0,4
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,Terraza Aeroclub Chillout,1388.9488453759293,No address,"Mediterranean, Lounges",4.0,3
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,Peter Rabbit AND Friends,68.48852877267068,No address,Restaurants,1.0,1
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,La Galeria Cafe,179.67373415075144,No address,"Cafeteria, Bars, Tabernas",0.0,0
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,Asador Don Antonio,936.0392744896023,No address,"Spanish, Steakhouses",4.0,1
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,El Rincon de Coimbra,2091.984528821981,No address,"Portuguese, Spanish",4.5,2
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,Centro,254.00681304326943,No address,Dim Sum,0.0,0
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,Madroñal,1335.906120869319,No address,"Dive Bars, Spanish, Tapas/Small Plates",4.7,3
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,Bar Julio,1534.4258245614983,No address,Tapas/Small Plates,4.0,1
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,Papa John's,432.87916746509376,No address,Pizza,0.0,0
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,El Guitarra,1260.423220728781,No address,Spanish,0.0,0
+0b965957e7c11306aa067a4ab04b0149,373 - Metro La Peseta,40.36277848,-3.75787005,3,19,Barbacoa Fast,291.047856916389,No address,Restaurants,0.0,0
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,El Paraguas,1410.9638971350644,No address,"Spanish, Asturian",4.3,60
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,La Gaditana,147.9175167873549,No address,"Seafood, Tapas Bars, Andalusian",3.9,16
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,Goiko Grill,1987.8894886334772,No address,"Burgers, American, Cafeteria",4.3,73
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,La Tasqueria,527.2966718930101,No address,"Spanish, Mediterranean",4.8,27
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,Purnima,160.61448368053505,No address,Indian,4.3,14
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,Los Montes de Galicia,1015.055313354252,No address,"Spanish, Bars",4.6,77
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,El Gran Barril,321.318094759927,No address,"Seafood, Spanish",4.5,17
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,Tandoori Station,485.7606389264665,No address,Indian,4.5,75
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,Cañadío,960.6167533724342,No address,"Spanish, Tapas/Small Plates",4.7,23
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,El Fogón de Trifón,264.57977033761654,No address,"Salad, Wine Bars, Gastropubs",4.6,8
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,La Castela,859.4791657409057,No address,"Spanish, Tapas/Small Plates",4.6,36
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,Taberna la Gaditana,280.2405454474771,No address,"Tapas/Small Plates, Andalusian, Tabernas",4.3,7
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,O'Grelo,830.7166479794473,No address,"Seafood, Galician, Tabernas",4.8,21
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,O'Caldiño,1341.032079621756,No address,"Galician, Seafood",4.4,21
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,Goiko Grill,642.8632176267331,No address,Burgers,4.1,47
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,Entre Cáceres y Badajoz,349.77473671797395,No address,"Spanish, Tapas Bars",3.9,48
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,Ultramarinos Quintín,1373.5918985217866,No address,"Spanish, Gastropubs, Seafood",3.9,48
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,La Croquetta,229.2293161784691,No address,Tapas Bars,3.3,9
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,Tablao Flamenco La Quimera,640.3550229600876,No address,"Restaurants, Tablao Flamenco",4.6,18
+0badd04ebb2c22f968eb6d8c9d1401b0,183 - Hermosilla - Doctor Esquerdo,40.425635,-3.669339,12,11,El Rincon de Jaén,413.4845717321932,No address,"Spanish, Tapas Bars, Andalusian",4.1,21
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,Las Costillas,1410.4390809470235,No address,"Barbeque, Steakhouses",4.2,10
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,Cruz Blanca de Vallecas,609.7244223527313,No address,Spanish,3.8,6
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,100 Montaditos,214.66200512078933,No address,"Beer Bar, Sandwiches",4.5,2
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,Cafetería de la Asamblea de Madrid,141.26060364376997,No address,"Coffee & Tea, Spanish, Tapas Bars",4.0,1
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,La J de Joaquín,192.4232145940276,No address,"Cafeteria, Tapas Bars, Tapas/Small Plates",0.0,0
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,Pizzeria VK,910.385139635794,No address,"Italian, Pizza",5.0,2
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,La Cervecera,1220.770784895565,No address,Spanish,3.3,11
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,EL Fogón de Paco,1203.1875740011503,No address,Restaurants,4.5,2
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,El Gaucho,812.1490754090424,No address,Tabernas,5.0,2
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,Cervecería 100 Montaditos,1435.059901671192,No address,"Sandwiches, Tapas Bars",4.3,4
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,La Choza de David,166.2682819839367,No address,"Tapas/Small Plates, Spanish",0.0,0
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,El Cortijo,1266.3389696052332,No address,"Tablao Flamenco, Spanish",4.7,3
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,Horno Castellano,73.41158615657457,No address,Restaurants,0.0,0
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,Il Bambino de la Bambola,1130.6734204232505,No address,Italian,4.5,2
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,Muxia,1775.5986120026284,No address,"Spanish, Tapas/Small Plates, Galician",4.0,3
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,Parador de Sanabria,324.8554999151433,No address,"Spanish, Tapas Bars",4.0,1
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,Vara S Pascual,112.79979622640468,No address,Restaurants,0.0,0
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,Vadepizza,1307.2248365148123,No address,Pizza,4.0,1
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,La María,390.6892481410705,No address,"Tapas/Small Plates, Tapas Bars, Tabernas",0.0,0
+0c4e27a6bd095fbc716b52921fa03dd1,"420 - Candilejas, 5",40.38263599,-3.66300383,14,9,Cafeteria la Encinilla II,184.23977436123369,No address,"Restaurants, General Contractors",0.0,0
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,El Güero,1172.2513890893,No address,"Latin American, Mexican",4.4,29
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,The Knife,995.9830671221872,No address,"Steakhouses, Argentine",4.1,22
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,Minotauro,830.6362360181735,No address,"Spanish, Beer Bar, Cocktail Bars",5.0,5
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,El Bund,1193.476815349428,No address,Dim Sum,3.7,19
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,Everest Tandoori,842.4173971218304,No address,Himalayan/Nepalese,4.7,10
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,A' Fenestella,1301.9860975637273,No address,"Italian, Pizza",4.2,22
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,Beytna,340.34592062255086,No address,Middle Eastern,4.6,5
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,Foster's Hollywood,861.743428962321,No address,"American, Burgers",4.0,4
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,Il profumo,173.61618006905962,No address,Italian,3.0,1
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,LA VACA,856.363578637919,No address,"Argentine, Steakhouses, Signature Cuisine",4.6,5
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,La Tagliatella,907.1712536119352,No address,Italian,4.0,5
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,La Vegana,606.3743088291446,No address,"Bars, Spanish",4.0,6
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,Casa Lobo,796.2336835587474,No address,"Cocktail Bars, Mediterranean",5.0,2
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,Gran Hong Kong,1321.296423233477,No address,Chinese,4.3,3
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,Tommy Mel's,805.5025007116496,No address,"American, Burgers",2.7,9
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,Frangus,882.4588108542947,No address,"Portuguese, Food Delivery Services",3.9,8
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,Beef Place,1182.468045508022,No address,Argentine,3.6,8
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,Pale Ale,1192.190832727868,No address,"Jazz & Blues, Burgers, Irish Pub",3.1,10
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,Chocarro,46.82704027626851,No address,Restaurants,0.0,0
+0e6a261b9b73119b4574dffcccaa5fc8,526 - Plaza del Liceo,40.45754368,-3.64441924,6,17,Matsuri,1716.7169412055146,No address,Japanese,4.2,6
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Casa Benigna,977.9525871262751,No address,Arroceria / Paella,4.8,70
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Sala de Despiece,1459.9885131924188,No address,"Gastropubs, Tapas Bars, Tabernas",4.3,100
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Lakasa,1397.1097839467277,No address,"Spanish, Signature Cuisine",4.8,55
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Goiko Grill,872.811514550939,No address,"Burgers, American, Cafeteria",4.3,73
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Los Montes de Galicia,1872.563403469505,No address,"Spanish, Bars",4.6,77
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Diverxo,1384.6383275968672,No address,"Signature Cuisine, Mediterranean",4.5,61
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,La Gabinoteca,1076.5607171198076,No address,"Spanish, Modern European",4.1,66
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Bacira,1736.272626447336,No address,"Spanish, Asian Fusion",4.8,23
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Cañadío,1627.3315313627122,No address,"Spanish, Tapas/Small Plates",4.7,23
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Tatel,1457.5192781377557,No address,"Spanish, Seafood, Mediterranean",4.0,45
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,InterContinental Madrid,1093.1083461579583,No address,"Hotels, Venues & Event Spaces, International",4.4,36
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Las Tortillas de Gabino,1486.4846285633014,No address,"Modern European, Spanish",4.5,26
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Miyama,1143.6608136483758,No address,"Japanese, Sushi Bars",4.5,30
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Jai Alai,297.41484678206035,No address,"Basque, Spanish, Tapas/Small Plates",4.4,8
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Goiko Grill,1235.0736939419971,No address,Burgers,4.4,29
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Ristorante Il Pastaio,1046.6433609273,No address,Italian,4.5,24
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Casa de Aragón,33.43052379931845,No address,Spanish,5.0,2
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Lúa,1644.2223059358594,No address,"Spanish, Modern European, Signature Cuisine",4.2,26
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,Tierra,1382.056390872773,No address,"American, Mexican, Vegetarian",4.5,21
+0efb8f4f904604e1aab87db03267c9d1,137 - Plaza de la República Argentina,40.4454477,-3.6853377,10,14,New York Burger,741.7412000311294,No address,Burgers,4.3,24
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,O'Camiño,201.0100031885543,No address,"Seafood, Galician, Arroceria / Paella",3.8,4
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,Green Tavern,1769.142633721373,No address,"Irish Pub, Burgers, Tapas/Small Plates",4.1,9
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,Do Meigo,170.79210368872555,No address,Spanish,3.0,3
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,La Almadraba,117.5987800246899,No address,Tabernas,4.0,1
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,Black & Gold,1579.8638797278002,No address,"Irish, Burgers, Sandwiches",3.8,4
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,Mesón Riaño,788.0034807344938,No address,"Spanish, Tapas Bars",4.0,1
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,Jaizkibel Artesanos Cocineros,1904.261878118163,No address,"Basque, Seafood",4.0,4
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,El Gurú,201.842053234069,No address,"Tapas/Small Plates, Spanish",0.0,0
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,VIPS,1559.90712058209,No address,"Burgers, Fast Food, American",4.0,2
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,GO! Sushing,290.66323693699616,No address,"Japanese, Sushi Bars",0.0,0
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,La Fontana,1601.4267457866374,No address,Spanish,3.8,4
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,Victoria,763.9409565249263,No address,Chinese,3.7,3
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,Antica Pizza,1507.8471047752805,No address,"Pizza, Salad, Italian",4.0,2
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,Freiduría El Chaval,1504.2763130193898,No address,"Galician, Tapas/Small Plates",4.0,2
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,El Rincon de Chana,566.0813130490766,No address,Spanish,3.7,3
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,Hosteleras Suecia,147.83665948539274,No address,"Restaurants, General Contractors",0.0,0
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,Miago,254.3697916871183,No address,"Cafeteria, Patisserie/Cake Shop, Bakeries",0.0,0
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,La Grada,738.4413851039233,No address,"Burgers, Beer Bar",4.0,1
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,La Botelleria Del Ermitaño,144.8638138576869,No address,Restaurants,0.0,0
+0f05093087f40f395206b3a68e533263,513 - Centro Deportivo Mpal. Pepu Hernández,40.4271211,-3.60645414,11,16,Fastgrill,294.7524217948662,No address,"Burgers, Barbeque",0.0,0
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,Pizzeria VK,606.9027570577124,No address,"Italian, Pizza",5.0,2
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,Cruz Blanca de Vallecas,1514.1900789287215,No address,Spanish,3.8,6
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,EL Fogón de Paco,869.4270702836607,No address,Restaurants,4.5,2
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,El Gaucho,1565.1782256952304,No address,Tabernas,5.0,2
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,Muxia,919.90776853766,No address,"Spanish, Tapas/Small Plates, Galician",4.0,3
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,Giumas Style,208.804208159888,No address,Restaurants,0.0,0
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,El Lagar,821.5023172580272,No address,Spanish,4.0,1
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,Lorenzo,1707.3394373391538,No address,"Spanish, Tapas Bars",4.5,2
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,All In Bar,1628.0080237102552,No address,"Spanish, Tapas Bars, Wine Bars",5.0,1
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,Evin,606.9027570577124,No address,"Pizza, Turkish",4.3,3
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,Dominicaña,1110.0977052813937,No address,"Dive Bars, Beer Bar, Breakfast & Brunch",5.0,1
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,Telepizza,1617.5183286791066,No address,Pizza,4.0,1
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,Calidad Diaz,814.6115718580633,No address,"Food, Chicken Shop, Restaurant Supplies",0.0,0
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,Collado Cuesta Jose Maria,259.4331167232624,No address,Restaurants,0.0,0
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,La Guarida,911.41784965693,No address,"Tapas Bars, Cafeteria, Burgers",5.0,1
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,La Estación de los Porches,1899.7099661860875,No address,Spanish,2.3,4
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,Asador de pollos El Chulipollo,1955.94971503258,No address,"Food Delivery Services, Rotisserie Chicken",5.0,1
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,Bailén,1637.4412238787038,No address,Tapas Bars,4.0,2
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,Monte Regio Alimentacion Artesanal,647.496010239772,No address,Spanish,1.0,1
+0f0dfbff2ae09ce4d0856b13ca2dcc5e,419 - Estación de tren de El Pozo,40.3762374,-3.655868,12,15,La Perla,1136.224198383033,No address,Tapas Bars,4.0,3
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,Vicus,341.09554099559494,No address,Tapas Bars,4.6,7
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,El Águila,392.8538781027162,No address,"Spanish, Wine Bars",3.5,4
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,La Taberna de Yoli,924.6221513833808,No address,"Tabernas, Tapas Bars, Spanish",4.0,3
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,El Buen Gusto,50.06885761111313,No address,"Tapas Bars, Falafel",2.0,3
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,Donde Siempre,222.48654204457435,No address,"Tapas Bars, Bars",2.0,1
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,La Rueda,631.6035058471024,No address,"Tapas/Small Plates, Spanish",4.0,1
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,Sienna Vicalvaro,416.2086984093675,No address,"Ice Cream & Frozen Yogurt, Cafeteria",4.3,4
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,Reina Banana,525.4196771450343,No address,Vegan,5.0,1
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,La Taberna de Chana,359.83543018929305,No address,"Spanish, Tapas/Small Plates",2.7,3
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,la Espiga de Valderribas,218.1407345509889,No address,Coffee & Tea,4.0,2
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,Bar Antonio,597.5958149318376,No address,"Bars, Tapas Bars",3.4,7
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,El Chapinal,573.6141829931707,No address,"Burgers, Sandwiches",4.0,2
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,Casa Botija,622.5443834580464,No address,Tapas/Small Plates,4.0,1
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,Gredos,695.1798781754935,No address,"Spanish, Tapas Bars",4.5,2
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,Calavi,902.7044393158428,No address,Tapas Bars,4.0,2
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,A.J. Friend's,375.93617906565385,No address,"Arroceria / Paella, Tapas Bars",2.0,1
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,Bernis,357.3502223582801,No address,Churros,4.0,1
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,La Facultad,898.2522106268784,No address,Tapas/Small Plates,4.0,2
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,La Birra es Bella,1494.3175480755117,No address,Spanish,4.0,1
+0f6c92c95b38cc123c2cc9fc13387c03,475 - Aurora Boreal - Minerva,40.399236,-3.603668,16,7,Asador de vicalvaro,351.5884358859517,No address,Spanish,4.0,1
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,Tinto y Tapas,1811.511132898661,No address,"Tapas Bars, Wine Bars, Tabernas",4.5,177
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,Más Al Sur,1635.9109970671786,No address,Spanish,4.5,155
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,Cafelito,1259.8938710184566,No address,"Coffee & Tea, Breakfast & Brunch",4.6,71
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,La Bodega de Los Secretos,1782.3984228079255,No address,"Spanish, Mediterranean",4.4,46
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,Ôven,1740.2888138328422,No address,"Italian, Bars",4.4,40
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,El Rincón Asturiano,1410.9804194798105,No address,"Spanish, Asturian, Tapas Bars",4.3,39
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,Los Porfiados,1552.3319548289498,No address,"Argentine, Spanish",4.6,33
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,Mis Tradiciones,450.0074885261575,No address,Peruvian,4.1,13
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,Donde da la Vuelta el Viento,1065.0635992161458,No address,"Tapas Bars, Spanish, Modern European",4.3,39
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,Tribuetxe,1146.5076184002369,No address,"Basque, Tapas/Small Plates",4.4,23
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,El Patio Vertical,1860.3066284128167,No address,"Coffee & Tea, Breakfast & Brunch",4.3,54
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,Corazón Agavero Mezcaloteca,1374.0494711342674,No address,"Cocktail Bars, Mexican",4.7,17
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,La Gelateria di Angelo,80.00482392633654,No address,"Ice Cream & Frozen Yogurt, Gluten-Free, Cafeteria",4.7,9
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,El Valle,898.662642426231,No address,"Asturian, Tapas Bars",4.2,21
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,MartinaCocina,1450.2056540274502,No address,"Modern European, Coffee & Tea, Caterers",4.4,37
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,Steak Burger,1738.5051560897602,No address,"American, Burgers, Steakhouses",4.1,29
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,Atocha Tandoori,1284.7936180501144,No address,Indian,4.9,18
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,O Pazo de Lugo,1409.4238588098176,No address,"Spanish, Galician, Tapas/Small Plates",4.1,56
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,Oviedo,49.28352972559751,No address,Asturian,3.8,4
+101ae6363d4a4f1fb301607dd4e4365a,"174 - Paseo de las Yeserías, 45",40.39742958306358,-3.70652588465576,15,12,Pui Thai Tapas,1153.3810594274205,No address,Thai,4.2,31
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,Sala de Despiece,1337.7124215639587,No address,"Gastropubs, Tapas Bars, Tabernas",4.3,100
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,Lakasa,1168.2906103939945,No address,"Spanish, Signature Cuisine",4.8,55
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,La Musa,1670.0349589756024,No address,"Bars, Mediterranean, Breakfast & Brunch",4.3,108
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,80 Grados,1712.7433699670505,No address,"Spanish, Tapas Bars",4.2,55
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,Tuk Tuk,1707.390303686184,No address,Pan Asian,4.2,68
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,Bacira,1560.942095918971,No address,"Spanish, Asian Fusion",4.8,23
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,La H es Muda,1618.120396798588,No address,Burgers,4.3,38
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,Pimiento Verde,1451.9766314724427,No address,Basque,4.5,29
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,La Rollerie,281.6030473666312,No address,"Breakfast & Brunch, Burgers",4.1,17
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,The Little Big Café,745.8154979276085,No address,"Breakfast & Brunch, Coffee & Tea, Juice Bars & Smoothies",4.4,73
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,Burnout,1382.5502779552014,No address,"Burgers, American",4.3,31
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,The Toast,832.2209338192624,No address,"Breakfast & Brunch, Cocktail Bars, Sandwiches",4.1,57
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,Cafetería HD,654.6168999406923,No address,"Burgers, Cocktail Bars",4.2,60
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,Cherry Pecas,107.72608172171331,No address,"Mexican, Mediterranean",3.9,10
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,Casa Paco,1358.8473975271156,No address,"Tapas/Small Plates, Breakfast & Brunch",4.3,54
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,Alcaravea,402.7366742965456,No address,"Spanish, Mediterranean, Tapas/Small Plates",4.6,18
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,Goiko Grill,1889.4794282162263,No address,Burgers,4.4,29
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,Tierra,647.7189374189428,No address,"Mexican, Vegetarian, American",4.0,61
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,Ristorante Il Pastaio,1490.2938804286537,No address,Italian,4.5,24
+105315e2fc06f2f1351e56a0ed37ea98,203 - General Ampudia - San Francisco Sales,40.44175,-3.7144722,10,14,La Tape,1608.3853543349717,No address,"Spanish, Beer Bar, Tapas Bars",4.1,40
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Viejo Almacén de Buenos Aires,1366.863650342905,No address,"Argentine, Steakhouses, Music Venues",4.7,7
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Oriental Palace,473.5193843469727,No address,Chinese,5.0,4
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Casa Pepe,903.4078877965842,No address,Tapas Bars,3.6,22
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Tavern-Tran,1946.6483086901749,No address,Tapas/Small Plates,4.3,4
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Mesón del Monte,819.004288565545,No address,"Tapas Bars, Tapas/Small Plates, Spanish",5.0,1
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Bistrot,322.5144504684493,No address,Spanish,4.5,2
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Casa Mariano,904.4543743219904,No address,Spanish,5.0,1
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Tony Roma's,1756.0290376524806,No address,"Seafood, Steakhouses",4.0,4
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,The Good Burger,1749.864926951266,No address,Burgers,3.2,14
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Los Granaínos,1390.8112817893211,No address,"Tapas/Small Plates, Spanish",3.7,3
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Luas Irish Tavern,1970.4658106932852,No address,"Beer Bar, Tapas Bars, Cocktail Bars",4.0,1
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,La Muralla de Ávila,1823.818458764589,No address,"Spanish, Tapas/Small Plates",4.3,4
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Del Caz,575.3419923004813,No address,Spanish,5.0,1
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Ti Amo,1577.6688999656717,No address,"Italian, Pizza",4.0,4
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,El Hayedo de José,1807.1366693914104,No address,"Spanish, Tapas Bars",3.8,6
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Villa Madrid,176.4044916737394,No address,Spanish,0.0,0
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Rosca Pizza,1223.8167203777748,No address,Italian,4.0,6
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Bar El Rincón,348.21079523415654,No address,Spanish,5.0,1
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,Madrid Delicia,1543.7368324138984,No address,"Bakeries, Coffee & Tea, Breakfast & Brunch",4.8,5
+10870e3816bf02164ca079b2f3cdfdaf,615 - Avenida Juan de Andrés 21,40.468732,-3.722789000000001,10,13,El Murciano Sirod,1626.4306121861057,No address,"Spanish, Barbeque, Beer Bar",0.0,0
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,Mad Brewing,1213.7217514645513,No address,"Breweries, Gastropubs",4.5,19
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,La Tagliatella,764.226524380294,No address,Italian,4.6,24
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,Matsuri,84.6752467345456,No address,Japanese,4.2,6
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,Docamar,1634.0703713723217,No address,"Spanish, Tapas Bars, Tapas/Small Plates",4.1,44
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,La Gran Pulpería,1702.0576674528118,No address,"Spanish, Galician",3.9,18
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,La Canica,1897.173355767423,No address,Spanish,4.6,11
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,The Knife,1437.2189190885676,No address,"Steakhouses, Argentine",4.1,22
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,Betelu,1870.1338870313384,No address,"Seafood, Basque",4.6,9
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,La Cocinita de Zoe,27.4862594102333,No address,Spanish,5.0,1
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,Sapama,734.8978405527964,No address,"Tapas/Small Plates, Spanish, Tapas Bars",3.7,28
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,Green Tavern,1476.0097048613386,No address,"Irish Pub, Burgers, Tapas/Small Plates",4.1,9
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,Eu Mundo,61.92555347115033,No address,"Spanish, Cafeteria",5.0,1
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,Monty's,1196.443846038651,No address,"Tapas Bars, Spanish, Tapas/Small Plates",4.0,4
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,A'Conchiña,1930.132583021163,No address,"Tapas Bars, Tapas/Small Plates, Dive Bars",4.2,27
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,Happiness,355.09926911152473,No address,"Asian Fusion, Chinese",3.4,8
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,Sabor Norteño,1207.9386469141098,No address,Peruvian,5.0,5
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,Troade Cerveceria,1186.750762960163,No address,"Burgers, Beer Bar, American",4.4,5
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,Sabor Azafrán,519.066606734483,No address,Persian/Iranian,4.5,4
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,Casa Tampico,17.818540933384185,No address,Spanish,0.0,0
+10aa5078c8232a0fe816f0affb26bcd1,518 - Tampico - Plaza Barbados,40.444569,-3.635345,9,14,El Racó,349.51235944270366,No address,Spanish,3.8,4
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,La Tasqueria,354.92136337424614,No address,"Spanish, Mediterranean",4.8,27
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,El Paraguas,1368.2463670608706,No address,"Spanish, Asturian",4.3,60
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,La Gaditana,235.63697402387444,No address,"Seafood, Tapas Bars, Andalusian",3.9,16
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,Los Montes de Galicia,1300.9280636452922,No address,"Spanish, Bars",4.6,77
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,Purnima,137.97357001420775,No address,Indian,4.3,14
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,El Gran Barril,349.14614404170857,No address,"Seafood, Spanish",4.5,17
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,Cañadío,1207.331711938652,No address,"Spanish, Tapas/Small Plates",4.7,23
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,La Castela,669.7952742501111,No address,"Spanish, Tapas/Small Plates",4.6,36
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,O'Grelo,595.0653896932083,No address,"Seafood, Galician, Tabernas",4.8,21
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,Tandoori Station,758.0884644899004,No address,Indian,4.5,75
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,Street Xo,1558.9108451747409,No address,"Gastropubs, Asian Fusion, Spanish",4.2,122
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,Ultramarinos Quintín,1335.2251199000125,No address,"Spanish, Gastropubs, Seafood",3.9,48
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,O'Caldiño,1410.3166426699129,No address,"Galician, Seafood",4.4,21
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,Goiko Grill,821.4610648235092,No address,Burgers,4.1,47
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,La Croquetta,139.45806843062036,No address,Tapas Bars,3.3,9
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,La Tagliatella,312.12691485421925,No address,Italian,4.0,8
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,Tablao Flamenco La Quimera,722.8831650393599,No address,"Restaurants, Tablao Flamenco",4.6,18
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,La Maruca,1278.1371777696015,No address,"Spanish, Gastropubs, Tapas/Small Plates",4.0,50
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,Álbora,1153.0311636409458,No address,"Spanish, Signature Cuisine, Gastropubs",4.3,19
+10f38a9684983074fdc46a7f2ba08815,101 - Metro O'Donnell,40.4230771,-3.6696804,15,9,El Pimiento Verde,1005.1038261036329,No address,Basque,4.9,18
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,Lakasa,1448.538269884365,No address,"Spanish, Signature Cuisine",4.8,55
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,La Gabinoteca,1927.5946105323055,No address,"Spanish, Modern European",4.1,66
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,Goiko Grill,1133.562541699071,No address,Burgers,4.4,29
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,Ristorante Il Pastaio,1561.1138912713438,No address,Italian,4.5,24
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,Tierra,1560.3560622852722,No address,"American, Mexican, Vegetarian",4.5,21
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,Naomi,823.1615593207564,No address,Japanese,4.6,36
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,Piccola Napoli,777.3119820475526,No address,"Pizza, Italian",4.5,15
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,New York Burger,1555.4001695530194,No address,"Burgers, Steakhouses, American",4.0,41
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,Irish Rover,1448.4494257389854,No address,"Sports Bars, Pubs, Fast Food",3.8,53
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,Monkee Koffee,1266.1085289184916,No address,"Cafeteria, Breakfast & Brunch, Salad",4.2,41
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,Asador Donostiarra,1664.7055739558532,No address,"Steakhouses, Basque, Spanish",4.1,32
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,Sylkar,1641.17977683567,No address,"Spanish, Tapas/Small Plates",4.4,31
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,Kabuki,1136.5014433366036,No address,Japanese,4.3,19
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,Vagalume,1681.501875278202,No address,"Spanish, Tapas/Small Plates",4.3,10
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,Clos,1104.7513084878217,No address,"Modern European, Spanish",4.9,9
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,Nonsolocaffé,1660.1851387999122,No address,Italian,4.6,8
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,La Máquina,1586.0594765034898,No address,"Spanish, Mediterranean, Tapas/Small Plates",4.1,20
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,As de Bastos,263.7254409352421,No address,"Spanish, Gluten-Free",4.7,3
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,La Cantina de la Estación,1501.1495510264351,No address,"Tapas Bars, Spanish, Asturian",4.2,21
+120b278034c551dc29e80abd19d56b4d,237 - Acueducto de Amaniel,40.4516819,-3.7102736,15,9,Furusato,1125.1961261721851,No address,Chinese,4.1,14

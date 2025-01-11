@@ -1,0 +1,101 @@
+station_name,restaurant_name,distance,address,categories,rating,review_count,phone
+377 - Metro Abrantes,IGo Pasta,1465.9680461525684,No address,"Chinese, Asian Fusion, Ramen",3.8,23,+34917047808
+377 - Metro Abrantes,Botafumeiro,769.9474556429477,No address,"Tapas Bars, Dive Bars, Spanish",4.3,9,+34914727054
+377 - Metro Abrantes,Lurca,53.496441272891936,No address,Restaurants,0.0,0,+34915650503
+377 - Metro Abrantes,Burger King,51.55754805229473,No address,American,0.0,0,+34915650503
+377 - Metro Abrantes,Doña Patata,799.6254747234262,No address,"Tapas Bars, Spanish",4.6,5,+34914727532
+377 - Metro Abrantes,Cafetería Bar Dayton,209.5218460548712,No address,Cafeteria,5.0,1,+34914389145
+377 - Metro Abrantes,Canaletto,269.76916166405863,No address,"Rotisserie Chicken, Pizza",4.5,2,+34914656414
+377 - Metro Abrantes,Asador Ricardo,1691.6298050021132,No address,Steakhouses,4.0,1,+34913761683
+377 - Metro Abrantes,La Piazzola,611.5500514860145,No address,"Burgers, Pizza, Sandwiches",4.7,3,+34912250440
+377 - Metro Abrantes,El Cuadro,623.1492340268287,No address,Spanish,5.0,2,+34648049054
+377 - Metro Abrantes,Delgado,312.6403615458306,No address,"Desserts, Bakeries, Cafeteria",4.0,1,+34915253230
+377 - Metro Abrantes,Garrote Diaz Vicente,189.64400033697825,No address,Restaurants,0.0,0,+34915251385
+377 - Metro Abrantes,Arrocería Da' Gusto,820.8744707344423,No address,"Tapas/Small Plates, Arroceria / Paella",4.5,2,+34913410731
+377 - Metro Abrantes,Apolo,395.1167993565494,No address,Mediterranean,0.0,0,+34915256230
+377 - Metro Abrantes,El Secreto de Dora,1157.225801875996,No address,"Spanish, Tapas Bars",3.8,4,+34914284121
+377 - Metro Abrantes,Telepizza,433.13620066128817,No address,Pizza,3.5,2,+34914605561
+377 - Metro Abrantes,Hogar Criado,1490.390551012301,No address,"Tapas/Small Plates, Spanish, Tapas Bars",4.5,2,+34914711802
+377 - Metro Abrantes,Gran Nemrut,871.0649798939662,No address,"Kebab, Middle Eastern, Pizza",3.8,5,+34914715219
+377 - Metro Abrantes,El Pollo Loko,1544.5047000140203,No address,Rotisserie Chicken,5.0,1,+34910028144
+377 - Metro Abrantes,El Rincón de Lola,743.2693542945663,No address,Tapas Bars,4.5,2,+34914727885
+507 - Seis - Sexta,La Bekada,346.7353128338655,No address,"Spanish, Steakhouses",3.5,14,+34912343355
+507 - Seis - Sexta,La Casona,188.1596942988748,No address,Restaurants,3.5,2,
+507 - Seis - Sexta,Tommy Mel's,817.1225905738007,No address,"Burgers, American",3.0,12,+34913122830
+507 - Seis - Sexta,El Llagar de Covadonga,1358.3021613868675,No address,"Spanish, Asturian",4.2,5,+34913204425
+507 - Seis - Sexta,Oktoberfest,829.0221253575354,No address,German,4.1,8,+34913123020
+507 - Seis - Sexta,Ribs,779.3994676492201,No address,"American, Burgers, Barbeque",1.0,1,+34917475838
+507 - Seis - Sexta,Valle El Hermoso,269.39652794146616,No address,Spanish,3.3,3,+34913930163
+507 - Seis - Sexta,El Reino Asador,928.9885449759812,No address,Buffets,4.3,3,+34916034496
+507 - Seis - Sexta,Enrique Tomas,1660.664734651366,No address,Spanish,4.3,7,
+507 - Seis - Sexta,La Tagliatella,792.1525735652002,No address,Italian,3.7,7,
+507 - Seis - Sexta,VIPS,768.8142820623044,No address,"Breakfast & Brunch, American",2.3,3,+34638579058
+507 - Seis - Sexta,Sienna,1347.7102870479262,No address,Pizza,4.0,2,+34913292101
+507 - Seis - Sexta,Brasa y Leña,783.6314732695116,No address,"Brasseries, Brazilian",2.0,5,+34917470304
+507 - Seis - Sexta,The Clover House,1222.01603809115,No address,"Irish, Pubs, Tapas Bars",2.1,7,+34913294995
+507 - Seis - Sexta,El Llagar,1284.002286580888,No address,"Spanish, Asturian",3.5,2,+34917414427
+507 - Seis - Sexta,Ferrum Bar,1030.347237998531,No address,"Spanish, Tapas Bars, Lounges",2.8,4,+34911534001
+507 - Seis - Sexta,The Good Burger,860.952539440248,No address,Burgers,2.7,3,
+507 - Seis - Sexta,Freiduría El Chaval,1315.577233996059,No address,"Galician, Tapas/Small Plates",4.0,2,+34913203367
+507 - Seis - Sexta,Restaurante Tokio,1129.7986268946916,No address,"Japanese, Chinese",4.5,4,+34917434049
+507 - Seis - Sexta,Ecu,1350.1945048509535,No address,"Spanish, Tapas Bars, Sandwiches",4.0,3,+34917419966
+192 - Avda. de los Toreros - Fco. Silvela,Tandoori Station,226.65474906389792,No address,Indian,4.5,75,+34914012228
+192 - Avda. de los Toreros - Fco. Silvela,Cañadío,319.8208612104687,No address,"Spanish, Tapas/Small Plates",4.7,23,+34912819192
+192 - Avda. de los Toreros - Fco. Silvela,Los Montes de Galicia,420.90456141649156,No address,"Spanish, Bars",4.6,77,+34913552786
+192 - Avda. de los Toreros - Fco. Silvela,Ten con Ten,1551.0780446507297,No address,Modern European,4.2,216,+34915759254
+192 - Avda. de los Toreros - Fco. Silvela,La Tasqueria,1078.9108473993613,No address,"Spanish, Mediterranean",4.8,27,+34914511000
+192 - Avda. de los Toreros - Fco. Silvela,El Pescador,239.26265457876232,No address,Seafood,4.3,17,+34914021290
+192 - Avda. de los Toreros - Fco. Silvela,La Cuchara,307.7941334351475,No address,"Latin American, Spanish",4.3,15,+34913093405
+192 - Avda. de los Toreros - Fco. Silvela,Goiko Grill,1444.260516760235,No address,"Burgers, American, Cafeteria",4.3,73,+34910609936
+192 - Avda. de los Toreros - Fco. Silvela,El Paraguas,1511.469173681705,No address,"Spanish, Asturian",4.3,60,+34914315950
+192 - Avda. de los Toreros - Fco. Silvela,Goiko Grill,470.4906890499505,No address,Burgers,4.1,47,+34910609616
+192 - Avda. de los Toreros - Fco. Silvela,Street Xo,1401.8203640535596,No address,"Gastropubs, Asian Fusion, Spanish",4.2,122,+34915319884
+192 - Avda. de los Toreros - Fco. Silvela,Tatel,1384.560079820679,No address,"Spanish, Seafood, Mediterranean",4.0,45,+34911721841
+192 - Avda. de los Toreros - Fco. Silvela,El Rincon de Jaén,398.5195761403692,No address,"Spanish, Tapas Bars, Andalusian",4.1,21,+34914016334
+192 - Avda. de los Toreros - Fco. Silvela,Milos,53.20429142872412,No address,Greek,3.4,22,+34913614472
+192 - Avda. de los Toreros - Fco. Silvela,La Castela,1353.7136551655537,No address,"Spanish, Tapas/Small Plates",4.6,36,+34915735590
+192 - Avda. de los Toreros - Fco. Silvela,O'Caldiño,1179.0708157196516,No address,"Galician, Seafood",4.4,21,+34915757014
+192 - Avda. de los Toreros - Fco. Silvela,La Maruca,1135.4960624643638,No address,"Spanish, Gastropubs, Tapas/Small Plates",4.0,50,+34917814969
+192 - Avda. de los Toreros - Fco. Silvela,El Gran Barril,778.8367458504912,No address,"Seafood, Spanish",4.5,17,+34914312210
+192 - Avda. de los Toreros - Fco. Silvela,Ultramarinos Quintín,1470.3506389002912,No address,"Spanish, Gastropubs, Seafood",3.9,48,+34917864624
+192 - Avda. de los Toreros - Fco. Silvela,Cazorla,201.23301534896373,No address,"Spanish, Tapas Bars, Tabernas",4.3,7,+34914026624
+333 - Illescas - Camarena,Aynaelda,459.18278665049075,No address,Spanish,3.9,9,+34917101051
+333 - Illescas - Camarena,Plaqués Cocina,71.2768568255019,No address,"Spanish, Bars",0.0,0,+34615385394
+333 - Illescas - Camarena,Passaparola L´Originale,950.6688205346443,No address,Italian,4.4,7,+34915095091
+333 - Illescas - Camarena,Jumi-Rosa,153.5284925396691,No address,"Spanish, Tapas Bars, Breakfast & Brunch",3.7,3,+34917190323
+333 - Illescas - Camarena,Novecento,77.41861893593486,No address,"Italian, Pizza",3.3,3,+34917190630
+333 - Illescas - Camarena,Las Murallas,119.381092715455,No address,"Cafeteria, Bars",4.0,1,+34917193723
+333 - Illescas - Camarena,Alegría,394.6713779585267,No address,Chinese,3.5,2,+34917181927
+333 - Illescas - Camarena,Tatami,86.00977082106215,No address,"Beer Bar, Tapas Bars",0.0,0,+34658461757
+333 - Illescas - Camarena,El Timón del Terraza,610.6917636704954,No address,"Arroceria / Paella, Mediterranean",4.5,4,+34917181650
+333 - Illescas - Camarena,Dany's,77.41861893593486,No address,Tapas Bars,2.0,2,
+333 - Illescas - Camarena,El Kiosko de la Pizza,952.5477057669809,No address,Pizza,4.5,4,+34902091755
+333 - Illescas - Camarena,American Fries,1533.4442051003584,No address,American,5.0,1,
+333 - Illescas - Camarena,Punto de Encuentro,704.7121977114774,No address,"Tapas Bars, Pubs",4.0,9,+34917194805
+333 - Illescas - Camarena,Bernat,400.4593857709686,No address,"Pizza, Tapas Bars",4.0,1,
+333 - Illescas - Camarena,Vukata,706.8404633903932,No address,Steakhouses,3.5,2,+34915098576
+333 - Illescas - Camarena,Collado Gonzalez Cesar,120.39816894580308,No address,Restaurants,0.0,0,+34917170848
+333 - Illescas - Camarena,Pizzería Carlos,1458.634381629617,No address,Pizza,4.5,4,+34914637800
+333 - Illescas - Camarena,Acueducto,516.0061449546001,No address,Tapas Bars,3.8,5,+34917173848
+333 - Illescas - Camarena,Pulpería Caracolería,1233.6014303590948,No address,"Spanish, Seafood",3.8,5,+34915250220
+333 - Illescas - Camarena,Eiffel,764.0300981602667,No address,Spanish,4.0,1,+34915183714
+3 - Plaza Conde Suchil,La Musa,293.2886292213181,No address,"Bars, Mediterranean, Breakfast & Brunch",4.3,108,+34914487558
+3 - Plaza Conde Suchil,80 Grados,350.97058314952614,No address,"Spanish, Tapas Bars",4.2,55,+34914458351
+3 - Plaza Conde Suchil,La H es Muda,289.5883286747916,No address,Burgers,4.3,38,+34917958219
+3 - Plaza Conde Suchil,Celso y Manolo,1398.3928298568887,No address,"Tapas Bars, Spanish",4.4,213,+34915318079
+3 - Plaza Conde Suchil,Burnout,397.0388721571287,No address,"Burgers, American",4.3,31,+34912680938
+3 - Plaza Conde Suchil,La Tape,200.0213087727615,No address,"Spanish, Beer Bar, Tapas Bars",4.1,40,+34915930422
+3 - Plaza Conde Suchil,Chocolatería San Ginés,1506.972270969316,No address,"Chocolatiers & Shops, Churros, Breakfast & Brunch",4.2,1516,+34913656546
+3 - Plaza Conde Suchil,El Ferry,260.1325176627982,No address,"American, Tapas/Small Plates",4.0,25,+34914472888
+3 - Plaza Conde Suchil,Lakasa,1297.354992250277,No address,"Spanish, Signature Cuisine",4.8,55,+34915338715
+3 - Plaza Conde Suchil,Federal,400.2068924552646,No address,"Breakfast & Brunch, Burgers",4.2,190,+34915328424
+3 - Plaza Conde Suchil,Sala de Despiece,1071.6076507823625,No address,"Gastropubs, Tapas Bars, Tabernas",4.3,99,+34917526106
+3 - Plaza Conde Suchil,La Mi Venta,1180.53647491692,No address,"Spanish, Steakhouses",4.6,138,+34915595091
+3 - Plaza Conde Suchil,Tuk Tuk,488.71205718486596,No address,Pan Asian,4.2,68,+34914459180
+3 - Plaza Conde Suchil,La Gastro,1061.8277133878855,No address,"Gastropubs, Spanish, Tapas Bars",4.6,72,+34913642263
+3 - Plaza Conde Suchil,Angelita,1259.2667816840237,No address,"Spanish, Wine Bars, Cocktail Bars",4.8,48,+34915216678
+3 - Plaza Conde Suchil,La Gringa,467.34240742329905,No address,American,4.4,61,+34679183399
+3 - Plaza Conde Suchil,Kalúa Helado Artesanal,343.6553915733782,No address,"Juice Bars & Smoothies, Ice Cream & Frozen Yogurt, Cafeteria",4.1,36,+34914454292
+3 - Plaza Conde Suchil,Carmencita,471.09332533614855,No address,"Modern European, Breakfast & Brunch",4.4,174,+34910003890
+3 - Plaza Conde Suchil,Toma Café,441.9712668813301,No address,"Coffee & Tea, Breakfast & Brunch",4.4,222,+34917025620
+3 - Plaza Conde Suchil,Bacira,792.3696291310007,No address,"Spanish, Asian Fusion",4.8,23,+34918664030
